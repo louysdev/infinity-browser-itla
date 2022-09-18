@@ -1,0 +1,386 @@
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\chrome_100_percent.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\chrome_200_percent.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\chrome_elf.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\d3dcompiler_47.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\icudtl.dat
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\libcef.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\libEGL.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\libGLESv2.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\LICENSE.txt
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\am.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ar.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\bg.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\bn.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ca.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\cs.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\da.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\de.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\el.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\en-GB.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\en-US.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\es-419.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\es.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\et.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fa.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fi.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fil.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fr.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\gu.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\he.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\hi.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\hr.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\hu.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\id.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\it.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ja.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\kn.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ko.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\lt.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\lv.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ml.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\mr.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ms.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\nb.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\nl.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\pl.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\pt-BR.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\pt-PT.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ro.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ru.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sk.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sl.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sr.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sv.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sw.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ta.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\te.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\th.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\tr.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\uk.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\vi.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\zh-CN.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\locales\zh-TW.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\README.txt
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\resources.pak
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\snapshot_blob.bin
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\swiftshader\libEGL.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\v8_context_snapshot.bin
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\vk_swiftshader.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\vk_swiftshader_icd.json
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\vulkan-1.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.exe.config
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.exe
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Licensing.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.WinForms.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\EasyTabs.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Svg.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.User32.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.WinForms.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\EasyTabs.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Svg.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Svg.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.User32.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.AssemblyReference.cache
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.Properties.Resources.resources
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.GenerateResource.cache
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.exe.licenses
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.CoreCompileInputs.cache
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.CopyComplete
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.exe
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.pdb
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.AppContainer.resources
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.frmBrowser.resources
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.exe.manifest
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.application
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.exe.manifest
+C:\Users\juani\Almacen\Codigo UNI\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.application
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\chrome_100_percent.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\chrome_200_percent.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\chrome_elf.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\d3dcompiler_47.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\icudtl.dat
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\libcef.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\libEGL.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\libGLESv2.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\LICENSE.txt
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\am.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ar.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\bg.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\bn.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ca.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\cs.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\da.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\de.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\el.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\en-GB.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\en-US.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\es-419.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\es.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\et.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fa.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fi.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fil.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\fr.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\gu.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\he.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\hi.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\hr.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\hu.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\id.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\it.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ja.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\kn.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ko.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\lt.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\lv.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ml.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\mr.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ms.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\nb.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\nl.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\pl.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\pt-BR.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\pt-PT.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ro.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ru.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sk.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sl.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sr.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sv.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\sw.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\ta.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\te.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\th.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\tr.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\uk.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\vi.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\zh-CN.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\locales\zh-TW.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\README.txt
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\resources.pak
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\snapshot_blob.bin
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\swiftshader\libEGL.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\v8_context_snapshot.bin
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\vk_swiftshader.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\vk_swiftshader_icd.json
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\vulkan-1.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.exe.config
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.exe.manifest
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.application
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.exe
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\InfinityBrowser.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Licensing.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.WinForms.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\EasyTabs.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Svg.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.User32.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.Core.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\CefSharp.WinForms.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\EasyTabs.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Svg.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Svg.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.User32.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.AssemblyReference.cache
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.AppContainer.resources
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.frmBrowser.resources
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.Properties.Resources.resources
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.GenerateResource.cache
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.exe.licenses
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.CoreCompileInputs.cache
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.exe.manifest
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.application
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.csproj.CopyComplete
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.exe
+C:\Users\juani\Almacen\Universidad\CM-4\Diseño centrado en el usuario\Navegador\InfinityBrowser\InfinityBrowser\obj\Debug\InfinityBrowser.pdb
